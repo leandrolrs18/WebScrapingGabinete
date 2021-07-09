@@ -67,3 +67,5 @@ if __name__ == '__main__':
         gerarExcel(decreto, emenda, data, ano)
         ano = ano + 1
         number = number + 1
+
+
